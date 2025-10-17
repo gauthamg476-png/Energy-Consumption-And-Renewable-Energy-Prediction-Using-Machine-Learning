@@ -84,3 +84,4 @@ git branch -M main
 git remote add origin https://github.com/<user>/<repo>.git
 git push -u origin main
 ```
+# Energy-Consumption-And-Renewable-Energy-Prediction-Using-Machine-Learning
