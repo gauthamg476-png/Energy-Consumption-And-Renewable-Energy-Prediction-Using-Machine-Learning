@@ -1,1 +1,0 @@
-# Energy-Consumption-And-Renewable-Energy-Prediction-Using-Machine-Learning
